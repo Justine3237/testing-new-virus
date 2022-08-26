@@ -27,7 +27,15 @@ echo " "
 baner1(){
 clear
 echo -e '\e[93m 
-'
+'        ──▐─▌──▐─▌──
+         ─▐▌─▐▌▐▌─▐▌─
+         ─█▄▀▄██▄▀▄█─
+         ──▄──██▌─▄──
+         ▄▀─█▀██▀█─▀▄
+         ▐▌▐▌─▐▌─▐▌▐▌
+         ─▐─█────█─▌─
+         ────▌──▐────
+
 echo " " 
 echo -e "$red                       ▶Coded by$grn JUSTINE$red◀$rset"
 echo -e "$red                      ⫸$ylo  TEXIDOMEG$red ⫷$rset"
