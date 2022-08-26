@@ -13,33 +13,14 @@ pink="\e[95m"
 # scripting start
 banner(){
 vid
-echo -e '\e[93m               
-                         __________
-                      .~#########%%;~.
-                     /############%%;`\
-                    /######/~\/~\%%;,;,\
-                   |#######\    /;;;;.,.|
-                   |#########\/%;;;;;.,.|
-          XX       |##/~~\####%;;;/~~\;,|       XX
-        XX..X      |#|  o  \##%;/  o  |.|      X..XX
-      XX.....X     |##\____/##%;\____/.,|     X.....XX
- XXXXX.....XX      \#########/\;;;;;;,, /      XX.....XXXXX
-X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
-X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
-echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.1      @#%,.@        
-                @#%,.@              @#%,.@          
-                  @#%,.@          @#%,.@            
-                     @#%,.@      @#%,.@             
-                       @#%.,@  @#%,.@              
-                        Noob Hackers
+echo -e '\e[93m              
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn JUSTINE$red◀$rset"
+echo -e "$red                      ⫸$ylo  TEXIDOMEG$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                    [Infect them with fun]$rset"
+echo -e "$red                    [USE THIS WISELY]$rset"
 echo " "
 echo " "
 }
@@ -59,19 +40,19 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v2.2      @#%,.@        
+ X# \.X        @#%,.@   TEXIDO VIRUS v2.2      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                        Noob Hackers
+                        TEXIDOMEG.ML
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn NITRO$red◀$rset"
-echo -e "$red                      ⫸$ylo  Noob Hackers$red ⫷$rset"
+echo -e "$red                       ▶Coded by$grn JUSTINE$red◀$rset"
+echo -e "$red                      ⫸$ylo  TEXIDOMEG$red ⫷$rset"
 echo 
 # Functions
-echo -e "$red                    [Infect them with fun]$rset"
+echo -e "$red                    [USE THIS WISELY]$rset"
 echo " "
 echo " "
 }
@@ -79,8 +60,8 @@ menu(){
 echo -e "$grn             ＞＞＞＞>>>＞$ylo [Options]$grn ＜<<<＜＜＜＜$rset"
 echo " "
 echo " "
-echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Infect now"
-echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Save now"
+echo -e "$red                        ➡$cyan [\e[92m1\e[96m] Virus link now"
+echo -e "$red                        ➡$cyan [\e[92m2\e[96m] Protection now"
 echo -e "$red                        ➡$cyan [\e[92m3\e[96m] About"
 echo -e "$red                        ➡$cyan [\e[92m4\e[96m] Update script "
 echo -e "$red                        ➡$cyan [\e[92m5\e[96m] Subscribe"
